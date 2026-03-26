@@ -4,7 +4,7 @@ Parses logs to detect failed logins and brute-force patterns. Real-world securit
 
 ## How to Run
 ```bash
-python log_analyzer.py
+python3 log_analyzer.py
 ```
 
 Technologies - Python (re, collections)
